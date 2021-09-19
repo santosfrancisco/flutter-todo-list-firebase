@@ -2,6 +2,13 @@
 
 Aplicativo de lista de tarefas feito em flutter usando o firebase
 
+# Rodando o Projeto localmente
+
+Para executar o projeto, é necessário configurar o Firebase
+
+- Android: [Seguir este guia da documentação](https://firebase.google.com/docs/android/setup?hl=pt-br) para gerar o arquivo `google-services.json`
+- iOS: [Seguir este guia da documentação](https://firebase.google.com/docs/ios/setup?hl=pt-br) para gerar o arquivo `GoogleService-Info.plist`
+
 ## Preview
 
 | Login                           | Sem tarefas                     |
